@@ -1,4 +1,4 @@
-print("hello")
+print("hello and hi")
 eeerrrqqdsfgd
 trsur
 tutu
